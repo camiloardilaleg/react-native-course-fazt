@@ -4,9 +4,9 @@
     "slug": "react-native-course-fazt",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon_fazt.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash_fazt.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

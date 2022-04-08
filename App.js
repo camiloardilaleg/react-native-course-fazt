@@ -26,6 +26,7 @@ const App = () => {
       return;
     }
     
+    // Compartir Url proporcionada por anonymous files
     if (Platform.OS === 'web'){
       setSelectedImage({ uri: ImageSelected.uri });
       let remoteUri = await uploadToAnonymousFilesAsync(ImageSelected.uri);
